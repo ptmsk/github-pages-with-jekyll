@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Potatomilkshake Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi, my nickname is ptmsk
+I'm glad you are here. I plan to talk about myself a little bit.
